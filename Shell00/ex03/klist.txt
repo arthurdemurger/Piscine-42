@@ -1,0 +1,6 @@
+Credentials cache: API:849CB864-3A52-4F99-B432-6F220734565E
+        Principal: ademurge@S19.BE
+
+  Issued                Expires               Principal
+Feb  2 08:47:56 2022  Feb  2 18:47:57 2022  krbtgt/S19.BE@S19.BE
+Feb  2 08:47:59 2022  Feb  2 18:47:57 2022  HTTP/san-ssd.s19.be@S19.BE
